@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.visionvera.library">
+
+
+<!--        <application-->
+<!--            tools:replace="android:icon, android:theme , android:label"-->
+<!--            android:icon="@mipmap/ic_launcher"-->
+<!--            android:label="app"-->
+<!--            android:roundIcon="@mipmap/ic_launcher"-->
+<!--            android:supportsRtl="true"-->
+<!--            android:theme="@style/Theme.AppCompat.NoActionBar">-->
+<!--            <activity android:name=".TestActivity"-->
+<!--                tools:ignore="Instantiatable">-->
+<!--                <intent-filter>-->
+<!--                    <action android:name="android.intent.action.MAIN" />-->
+
+<!--                    <category android:name="android.intent.category.LAUNCHER" />-->
+<!--                </intent-filter>-->
+<!--            </activity>-->
+<!--        </application>-->
+
+
+<!--    <application>-->
+<!--        <activity android:name=".TestActivity"></activity>-->
+<!--        <activity android:name=".base.activity.ProtocolActivity" />-->
+<!--    </application>-->
+
+</manifest>

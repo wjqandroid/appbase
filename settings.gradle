@@ -1,0 +1,3 @@
+rootProject.name = "TestBaseDemo"
+include ':app'
+include ':base_module'
